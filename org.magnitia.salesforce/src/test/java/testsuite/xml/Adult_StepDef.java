@@ -1,4 +1,4 @@
-package org.magnitia.salesforce;
+package testsuite.xml;
 
 public class Adult_StepDef {
 
